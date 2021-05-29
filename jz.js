@@ -1,4 +1,4 @@
-$("<div class='fr borderg' style='padding:2px;background-color:white;float:left;margin-left:4px;'> <a href='https://mskchat.com/'>شات </a>.<a href='https://www.al3nood.net/'>شات الحب</a></div>").insertAfter($(".loginstat"));
+$("<div class='fr borderg' style='padding:2px;background-color:white;float:left;margin-left:4px;'> <a href='https://mskchat.com/'>شات</a> <a href='https://mskchat.com/'>شات قلوب</a> <a href='https://www.al3nood.net/'>شات الحب</a></div>").insertAfter($(".loginstat"));
 $(`<link rel="stylesheet" type="text/css" href=""><style>input[type="jfa-w"] {
     margin-left: 60px;
     text-align: center;
