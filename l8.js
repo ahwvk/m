@@ -1,4 +1,4 @@
-$("<div class='fr borderg' style='padding:2px;background-color:white;float:left;margin-left:4px;'> <a href='https://mskchat.com/'>شات تعب</a><a href='https://l7p.net/'>شات الحب</a></div>").insertAfter($(".loginstat"));$(`<link rel="stylesheet" type="text/css" href=""><style>
+$("<div class='fr borderg' style='padding:2px;background-color:white;float:left;margin-left:4px;'> <a href='https://mskchat.com/'>شات قلوب</a><a href='https://l7p.net/'>شات الحب</a></div>").insertAfter($(".loginstat"));$(`<link rel="stylesheet" type="text/css" href=""><style>
 
 
 a.label.label-primary.fl {border-radius: 3px!important;margin: 2px 0px;padding: 5px!important;margin-bottom: 2px;text-align: right!important;}
